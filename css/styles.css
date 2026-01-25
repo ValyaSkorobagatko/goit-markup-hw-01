@@ -1,0 +1,144 @@
+/* general settings */
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  background-color: #f4f4fd;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+h2 {
+  font-size: 36px;
+  color: #2e2f42;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2e2f42;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* Header */
+.page-header {
+  font-weight: 700;
+  font-size: 18px;
+}
+.logo header-logo {
+  font-weight: 700;
+  font-size: 18px;
+}
+.logo-part {
+  color: #2e2f42;
+}
+/* Navigation */
+.header-nav {
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  color: #2e2f42;
+}
+/* Address */
+.contacts {
+}
+.contacts-list {
+}
+.contacts-item {
+}
+.contacts-link {
+  font-weight: 400;
+  font-size: 16px;
+  color: #434455;
+}
+/* Hero */
+.hero {
+  background-color: #2e2f42;
+  color: #fff;
+}
+
+.hero-title {
+  font-weight: 700;
+  font-size: 56px;
+}
+.hero-btn {
+  font-weight: 500;
+  background-color: #4d5ae5;
+  color: inherit;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #404bbf;
+}
+/* Main facts */
+.main {
+}
+.main-title {
+}
+.main-list {
+}
+.main-item {
+}
+.main-subtitle {
+}
+.main-text {
+}
+/* Team */
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-subtitle {
+}
+/* Portfolio */
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-subtitle {
+}
+.portfolio-text {
+}
+/* Footer */
+.footer {
+  font-weight: 700;
+  font-size: 18px;
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+.logo footer-logo {
+}
+footer .logo-part {
+  color: #f4f4fd;
+}
+.footer-text {
+}
